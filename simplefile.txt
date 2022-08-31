@@ -1,5 +1,9 @@
-Every 
+Many
 Good 
+<<<<<<< HEAD
 Man
+=======
+People 
+>>>>>>> alternative
 Deserves 
 Rights 
